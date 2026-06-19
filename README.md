@@ -1,6 +1,6 @@
 # 🐳 Docker Labs — TechOpsTutorials
 
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://www.youtube.com/@TechOpsTutorials)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://www.youtube.com/playlist?list=PL4y5PiOmBnA9uqR4LvrBuBXPll0skLGCQ)
 [![License](https://img.shields.io/badge/License-MIT-green)](./LICENSE)
 [![Stars](https://img.shields.io/github/stars/Sagar-CloudNative/docker-labs?style=social)](https://github.com/Sagar-CloudNative/docker-labs)
 
@@ -30,7 +30,7 @@ Each lab folder matches a video in the playlist and includes commands, YAML file
 
 | Lab # | Topic | Status |
 | :--- | :--- | :--- |
-| 01 | Docker vs VMs Explained | ✅ Available |
+| 01 | [Containers & Orchestration Explained](./01-containers-and-orchestration) | ✅ Available |
 | 02 | Docker Installation & Setup | ⏳ Upcoming |
 | 03 | Docker Images & Containers Explained | ⏳ Upcoming |
 | 04 | Dockerfile Fundamentals | ⏳ Upcoming |
@@ -59,7 +59,7 @@ Each lab folder matches a video in the playlist and includes commands, YAML file
 docker-labs/
 ├── README.md
 ├── LICENSE
-├── 01-docker-vs-vms/
+├── 01-containers-and-orchestration/
 │   └── README.md
 ├── 02-docker-installation/
 │   ├── README.md
@@ -106,7 +106,7 @@ Then open the folder for the video you are watching and follow along.
 ## 📬 Connect
 
 - YouTube: [TechOpsTutorials](https://www.youtube.com/@TechOpsTutorials)
-- GitHub: [TechOpsTutorials](https://github.com/Sagar-CloudNative)
+- GitHub: [Sagar-CloudNative](https://github.com/Sagar-CloudNative)
 
 ---
 
