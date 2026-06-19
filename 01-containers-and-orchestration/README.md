@@ -4,8 +4,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green)](../LICENSE)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://www.youtube.com/@TechOpsTutorials)
 
-> **Part of the [Docker Labs](https://github.com/TechOpsTutorials/docker-labs) series**
-
+> **Part of the [Docker Labs](https://github.com/Sagar-CloudNative/docker-labs) series**
 ---
 
 ## 🎯 What You'll Learn
@@ -104,7 +103,7 @@ When running tens or hundreds of containers across multiple machines, managing t
 
 ## 📺 Watch the Video
 
-👉 [**Containers & Orchestration Explained — YouTube**](https://www.youtube.com/@TechOpsTutorials)
+👉 [**Containers & Orchestration Explained — YouTube**](https://www.youtube.com/watch?v=qnoRq9J52xI)
 
 ---
 
