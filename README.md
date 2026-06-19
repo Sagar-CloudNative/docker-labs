@@ -31,7 +31,7 @@ Each lab folder matches a video in the playlist and includes commands, YAML file
 | Lab # | Topic | Status |
 | :--- | :--- | :--- |
 | 01 | [Containers & Orchestration Explained](./01-containers-and-orchestration) | ✅ Available |
-| 02 | Docker Installation & Setup | ⏳ Upcoming |
+| 02 | [Docker Installation & Setup](./02-docker-installation) | ✅ Available |
 | 03 | Docker Images & Containers Explained | ⏳ Upcoming |
 | 04 | Dockerfile Fundamentals | ⏳ Upcoming |
 | 05 | Docker Build & Push | ⏳ Upcoming |
