@@ -2,7 +2,7 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://www.youtube.com/@TechOpsTutorials)
 [![License](https://img.shields.io/badge/License-MIT-green)](./LICENSE)
-[![Stars](https://img.shields.io/github/stars/TechOpsTutorials/docker-labs?style=social)](https://github.com/Sagar-CloudNative/docker-labs)
+[![Stars](https://img.shields.io/github/stars/Sagar-CloudNative/docker-labs?style=social)](https://github.com/Sagar-CloudNative/docker-labs)
 
 Hands-on Docker labs to go along with the **TechOpsTutorials Docker playlist** on YouTube.
 
@@ -80,7 +80,7 @@ Each lab folder contains:
 ## 🚀 How to Use This Repo
 
 ```bash
-git clone https://github.com/TechOpsTutorials/docker-labs.git
+git clone https://github.com/Sagar-CloudNative/docker-labs.git
 cd docker-labs
 ```
 
@@ -99,14 +99,14 @@ Then open the folder for the video you are watching and follow along.
 
 ## 📺 YouTube Playlist
 
-👉 [**Docker Labs Playlist — TechOpsTutorials**](https://www.youtube.com/@TechOpsTutorials)
+👉 [**Docker Labs Playlist — TechOpsTutorials**](https://www.youtube.com/playlist?list=PL4y5PiOmBnA9uqR4LvrBuBXPll0skLGCQ)
 
 ---
 
 ## 📬 Connect
 
 - YouTube: [TechOpsTutorials](https://www.youtube.com/@TechOpsTutorials)
-- GitHub: [TechOpsTutorials](https://github.com/TechOpsTutorials)
+- GitHub: [TechOpsTutorials](https://github.com/Sagar-CloudNative)
 
 ---
 
