@@ -2,7 +2,7 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://www.youtube.com/@TechOpsTutorials)
 [![License](https://img.shields.io/badge/License-MIT-green)](./LICENSE)
-[![Stars](https://img.shields.io/github/stars/TechOpsTutorials/docker-labs?style=social)](https://github.com/TechOpsTutorials/docker-labs)
+[![Stars](https://img.shields.io/github/stars/TechOpsTutorials/docker-labs?style=social)](https://github.com/Sagar-CloudNative/docker-labs)
 
 Hands-on Docker labs to go along with the **TechOpsTutorials Docker playlist** on YouTube.
 
